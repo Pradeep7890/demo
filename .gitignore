@@ -1,0 +1,26 @@
+WebdriverTopics.iml
+chromedriver
+.idea
+*.DS_Store
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+#Virtual machine crash logs
+/target/
+*.classpath
+.settings
+.project
+*.exe
+
+# comiled class file
+*.class
+
+# log files
+*.log
